@@ -23,3 +23,12 @@ https://www.nexusmods.com/baldursgate3/mods/327?tab=files&file_id=18920
 5. 下載 mod 整合包
 https://drive.google.com/file/d/17nC0sqHMqi1XmLRo0vPr1rYU9_Re8SE5/view?usp=sharing
 解壓縮後把 mods 資料夾直接甩到 vortx -> Mods -> Drop files 那個選項框上
+
+6. BG3ModManager (管理載入 mod 的順序)
+下載
+https://github.com/LaughingLeader/BG3ModManager/releases/latest/download/BG3ModManager_Latest.zip
+解壓縮，開啟後匯入載入順序 file -> import order from file -> Public_Current-2023-10-1_02-23-52.tsv (包含在剛剛的 mod 整合包中)
+
+
+7. 把遊戲語言改成簡中，因為大部分 mod 不支援繁體中文
+(從 steam 的收藏庫頁面按右邊齒輪 -> 內容 -> 語言 -> 簡體中文)
