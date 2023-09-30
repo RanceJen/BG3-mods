@@ -32,3 +32,6 @@ https://github.com/LaughingLeader/BG3ModManager/releases/latest/download/BG3ModM
 
 7. 把遊戲語言改成簡中，因為大部分 mod 不支援繁體中文
 (從 steam 的收藏庫頁面按右邊齒輪 -> 內容 -> 語言 -> 簡體中文)
+
+8. 關閉遊戲統計
+參考 https://www.nexusmods.com/baldursgate3/mods/366 關閉統計
